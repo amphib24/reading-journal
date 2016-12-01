@@ -1,0 +1,2 @@
+<h1> 201 day 2 -3 entry </h1>
+<p> Today completely blew my mind. Trying to figure out how to take what we learned about arrays and loops in class and apply it to the project was really difficult for me. I definitely find for loops easier to understand than while loops. I feel like had more control over how much interaction I could create with the user. This may just be due to lack of knowledge im not sure. This being said I hope we go into these concepts more in class.</P>

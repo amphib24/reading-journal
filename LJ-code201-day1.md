@@ -1,0 +1,3 @@
+<h1> 201 day one entry </h1>
+<p> Today I tried to figure out how to automatically capitalize the first letter of the users response to the prompts I created. The TA did a great job at giving me the advice I need to start working at solving the problem my self.  I did not figure it out before turning in my assignment but plan on trying to figure it out at home. I also enjoyed getting familiar with the terminal and look forward to getting comfortable using it. The javaScript portion of the lab was fun and a great refresher. I am looking forward to digging into programing and learning as much as possible.
+There was also a lot of good peer to peer communication as well.</p>
