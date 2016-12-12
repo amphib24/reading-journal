@@ -1,0 +1,2 @@
+<h1>Learning Journal 201 day 10</h1>
+This weekend I learned that positioning a pages elements with css is a lot harder than I thought. Actually having to follow a specific layout on the wire framing exercise made me realize before all I did was randomly place things on a page where I thought they looked "right". I also learned about the position properties a bit and how to use them. The quizzes this week didn't go so hot for me so I have a lot of reviewing to do on that. I liked the wire framing exercise and hopefully we get to do more.
